@@ -1,38 +1,39 @@
 Commands   |   Notes
 ----------------------------------------------
 cd         |- change directory
-		   |- move in our out of a folder
-		   |- "../" (To move out of a folder)
+           |- move in our out of a folder
+           |- "../" (To move out of a folder)
 ----------------------------------------------
 makdir	   |- make folder/directory
 ----------------------------------------------
 touch	   |- Create a file
 ----------------------------------------------
-ls 		   |- list files in a folder
+ls         |- list files in a folder
 ----------------------------------------------
 
 
-Git        |  Notes
+Git Command|  Notes
 ----------------------------------------------
 git init   |- initialize project
 ----------------------------------------------
 git status |- check project status
 ----------------------------------------------
-"clear"    |- no red
-----------------------------------------------
 git add	   |- (file name)
 ----------------------------------------------
 git commit |- "-m "-your message-""
 ----------------------------------------------
+git remote |
+----------------------------------------------
+git push   |
 
 
 Vocabulary | Definition
 ----------------------------------------------
 html	   |- "hyper text marked up language"
 ----------------------------------------------
-cli		   |- "command line interface"
+cli        |- "command line interface"
 ----------------------------------------------
-gui		   |- "graphic user interface
+gui        |- "graphic user interface
 
 
 
@@ -41,4 +42,7 @@ Other Notes:
 3 Levels of Knowing:
 	-knowing and understanding
 	-teaching and reinforcing
-	-intuitive
+	-grocking- intuitive
+
+-"clean" -no red
+-DO NOT CHECK INITIALIZE READ ME
