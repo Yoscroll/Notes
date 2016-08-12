@@ -4,9 +4,9 @@ cd         |- change directory
            |- move in our out of a folder
            |- "../" (To move out of a folder)
 ----------------------------------------------
-makdir	   |- make folder/directory
+mkdir	   |- make folder/directory
 ----------------------------------------------
-touch	   |- Create a file
+touch	     |- Create a file
 ----------------------------------------------
 ls         |- list files in a folder
 ----------------------------------------------
@@ -15,12 +15,17 @@ ls         |- list files in a folder
 Git Command|  Notes
 ----------------------------------------------
 git init   |- initialize project
+           |- first thing to do when starting
+           |  a project
 ----------------------------------------------
 git status |- check project status
 ----------------------------------------------
 git add	   |- (file name)
+           |- shows git that file has been
+           |  updated
 ----------------------------------------------
 git commit |- "-m "-your message-""
+           |- m for detailed message
 ----------------------------------------------
 git remote |
 ----------------------------------------------
@@ -29,7 +34,7 @@ git push   |
 
 Vocabulary | Definition
 ----------------------------------------------
-html	   |- "hyper text marked up language"
+html	     |- "hyper text marked up language"
 ----------------------------------------------
 cli        |- "command line interface"
 ----------------------------------------------
@@ -39,10 +44,21 @@ gui        |- "graphic user interface
 
 Other Notes:
 ----------------------------------------------
+Tools of Developers:
+  -GitHub
+  -Gitshell
+  -Sumblime Text
+
 3 Levels of Knowing:
 	-knowing and understanding
 	-teaching and reinforcing
 	-grocking- intuitive
 
+Desginer vs Developer
+	-desginer is more creative and visual
+	-developer logical and steps oriented
+
 -"clean" -no red
 -DO NOT CHECK INITIALIZE READ ME
+-Version Control System
+  -Github/gitshell
