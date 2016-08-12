@@ -4,12 +4,15 @@ cd         |- change directory
            |- move in our out of a folder
            |- "../" (To move out of a folder)
 ----------------------------------------------
-mkdir	   |- make folder/directory
+mkdir	     |- make folder/directory
 ----------------------------------------------
-touch	     |- Create a file
+touch      |- Create a file
 ----------------------------------------------
 ls         |- list files in a folder
 ----------------------------------------------
+ctrl+c     |- terminates process
+----------------------------------------------
+arrow key  |- type previous commands
 
 
 Git Command|  Notes
@@ -27,14 +30,14 @@ git add	   |- (file name)
 git commit |- "-m "-your message-""
            |- m for detailed message
 ----------------------------------------------
-git remote |
+git remote |- 
 ----------------------------------------------
-git push   |
+git push   |-uploads file
 
 
 Vocabulary | Definition
 ----------------------------------------------
-html	     |- "hyper text marked up language"
+html       |- "hyper text marked up language"
 ----------------------------------------------
 cli        |- "command line interface"
 ----------------------------------------------
