@@ -4,7 +4,7 @@ cd         |- change directory
            |- move in our out of a folder
            |- "../" (To move out of a folder)
 ----------------------------------------------
-mkdir	     |- make folder/directory
+mkdir      |- make folder/directory
 ----------------------------------------------
 touch      |- Create a file
 ----------------------------------------------
