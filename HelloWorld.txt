@@ -15,6 +15,8 @@ ctrl+c     |- terminates process
 arrow key  |- type previous commands
 
 
+
+
 Git Command|  Notes
 ----------------------------------------------
 git init   |- initialize project
@@ -30,9 +32,10 @@ git add	   |- (file name)
 git commit |- "-m "-your message-""
            |- m for detailed message
 ----------------------------------------------
-git remote |- 
-----------------------------------------------
 git push   |-uploads file
+
+
+
 
 
 Vocabulary | Definition
@@ -42,6 +45,40 @@ html       |- "hyper text marked up language"
 cli        |- "command line interface"
 ----------------------------------------------
 gui        |- "graphic user interface
+
+
+
+
+Elements   |
+----------------------------------------------
+<head>     |- behind the sences
+----------------------------------------------
+<body>     |- seen on the website
+----------------------------------------------
+<p>        |- paragraph
+----------------------------------------------
+<div>      |- divider for elements
+           |- starts a new line
+----------------------------------------------
+<a>        |- link
+----------------------------------------------
+<img/>     |- image
+----------------------------------------------
+<h1>       |- header (1-6)
+----------------------------------------------
+<span>     |- inline elements
+----------------------------------------------
+<header>   |-navigation, logo
+----------------------------------------------
+<footer>   |-copyright
+----------------------------------------------
+<!-- -->   |-add a comment
+
+
+Attributes
+src-source
+lang-language
+b-bold
 
 
 
@@ -56,7 +93,7 @@ Tools of Developers:
 	-knowing and understanding
 	-teaching and reinforcing
 	-grocking- intuitive
-
+----------------------------------
 Desginer vs Developer
 	-desginer is more creative and visual
 	-developer logical and steps oriented
@@ -65,3 +102,19 @@ Desginer vs Developer
 -DO NOT CHECK INITIALIZE READ ME
 -Version Control System
   -Github/gitshell
+----------------------------------
+Marked Up Language
+  -a document that tells the screen to display something
+  -(HTML,XML)
+Programing Language
+  -telling computer to perform function and task
+  -(Java, Java Sciprt)
+----------------------------------
+Basic HTML Website
+head
+
+body(content)
+  header
+  footer
+----------------------------------
+Anything in an element is a child. The original elemnt is called a parent.
