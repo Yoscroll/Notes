@@ -69,17 +69,30 @@ Elements   |
 <span>     |- inline elements
 ----------------------------------------------
 <header>   |-navigation, logo
+           |-<h1> Logo </h1>
+           |-<h6> TAN</h6>
 ----------------------------------------------
 <footer>   |-copyright
 ----------------------------------------------
 <!-- -->   |-add a comment
-
+----------------------------------------------
+<ul>       |-unordered list
+           |-bullet points
+----------------------------------------------
+<li>       |-list
+           |-can put div in it
+----------------------------------------------
+<ol>       |-ordered list
+----------------------------------------------
+<nav>      |
 
 Attributes
 src-source
 lang-language
 b-bold
-
+aside-put on the side
+align-align
+href-home reference(usually for a link)
 
 
 Other Notes:
@@ -109,6 +122,7 @@ Marked Up Language
 Programing Language
   -telling computer to perform function and task
   -(Java, Java Sciprt)
+CSS- styling
 ----------------------------------
 Basic HTML Website
 head
@@ -116,5 +130,16 @@ head
 body(content)
   header
   footer
-----------------------------------
+
 Anything in an element is a child. The original elemnt is called a parent.
+
+Two types of lists:
+<ul>
+<li>
+----------------------------------
+UI-User Interface
+  -graphic design
+  -visual elements
+UX-User Experience
+  -process to enhance usability
+  -bad UE:not being able to go back
