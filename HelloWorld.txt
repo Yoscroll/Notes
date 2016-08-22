@@ -16,7 +16,6 @@ arrow key  |- type previous commands
 
 
 
-
 Git Command|  Notes
 ----------------------------------------------
 git init   |- initialize project
@@ -36,8 +35,6 @@ git push   |-uploads file
 
 
 
-
-
 Vocabulary | Definition
 ----------------------------------------------
 html       |- "hyper text marked up language"
@@ -45,7 +42,6 @@ html       |- "hyper text marked up language"
 cli        |- "command line interface"
 ----------------------------------------------
 gui        |- "graphic user interface
-
 
 
 
@@ -85,6 +81,7 @@ Elements   |
 <ol>       |-ordered list
 ----------------------------------------------
 <nav>      |
+
 
 Attributes
 src-source
@@ -143,3 +140,11 @@ UI-User Interface
 UX-User Experience
   -process to enhance usability
   -bad UE:not being able to go back
+  --------------------------------
+  Two types of Elements:
+  <div>-block element
+  <span>-inline element
+
+  All html pages MUST include
+  <!DOCTYPE>-type of document
+  <html lang="en">-sets language
