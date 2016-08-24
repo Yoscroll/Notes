@@ -90,6 +90,8 @@ b-bold
 aside-put on the side
 align-align
 href-home reference(usually for a link)
+id-can only be used once(#)
+class-can be used many times(.)
 
 
 Other Notes:
@@ -140,11 +142,12 @@ UI-User Interface
 UX-User Experience
   -process to enhance usability
   -bad UE:not being able to go back
-  --------------------------------
+----------------------------------
   Two types of Elements:
   <div>-block element
   <span>-inline element
-
-  All html pages MUST include
-  <!DOCTYPE>-type of document
-  <html lang="en">-sets language
+----------------------------------
+  python -m SimpleHTTPServer
+----------------------------------
+Ctrl+Shift+d =copy&paste selected
+Ctrl+Shift+Arrowkey=move selected
