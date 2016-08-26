@@ -47,7 +47,8 @@ gui        |- "graphic user interface
 
 Elements   |
 ----------------------------------------------
-<head>     |- behind the sences
+<head>     |- behind the sences-
+           |- describe the website
 ----------------------------------------------
 <body>     |- seen on the website
 ----------------------------------------------
