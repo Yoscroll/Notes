@@ -120,7 +120,7 @@ Marked Up Language
   -(HTML,XML)
 Programing Language
   -telling computer to perform function and task
-  -(Java, Java Sciprt)
+  -(Java, Java Script)
 CSS- styling
 ----------------------------------
 Basic HTML Website
