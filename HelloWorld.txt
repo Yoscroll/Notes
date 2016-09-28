@@ -41,7 +41,9 @@ html       |- "hyper text marked up language"
 ----------------------------------------------
 cli        |- "command line interface"
 ----------------------------------------------
-gui        |- "graphic user interface
+gui        |- "graphic user interface"
+----------------------------------------------
+css        |- "cascading style sheets"
 
 
 
@@ -83,7 +85,9 @@ Elements   |
 ----------------------------------------------
 <nav>      |
 
-
+CSS
+----------------------------------------------
+margin: (top/bottom) (left/right)
 Attributes
 src-source
 lang-language
@@ -135,7 +139,7 @@ Anything in an element is a child. The original elemnt is called a parent.
 
 Two types of lists:
 <ul>
-<li>
+<ol>
 ----------------------------------
 UI-User Interface
   -graphic design
@@ -152,3 +156,38 @@ UX-User Experience
 ----------------------------------
 Ctrl+Shift+d =copy&paste selected
 Ctrl+Shift+Arrowkey=move selected
+----------------------------------
+Pitching
+
+MVP- M Viable Product
+-to get people to use or know about your product
+
+Traction + High Concept = Elevator Pitch
+ 
+High concept
+-what does it help customer with
+-who is your customer
+----------------------------------
+Responsive (fluid) Desgin
+  -respond to any screen size
+  -Google, facebook
+Grid Design
+  -Pintrest
+  -Tumblr
+Media Query
+  -breakpoints
+  -Desktop, mobile, tablet
+  -Medium: around 600px
+  -sets content to adjust to other devices
+EM
+  -use for responsive design so fonts can adjust to screen
+  -size of em depends on parent
+  -default font size: 16px
+Pseudo Class Selectors
+  -defines a special state
+  -common: hover, before & after,
+Mobile Design
+  -website that is designed to fit on mobile devices
+  -instagram(easy to use)
+Specificity
+  -the more specific, the higher it's priority to change value
